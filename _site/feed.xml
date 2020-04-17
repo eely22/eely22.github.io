@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maximum Recurstion Depth</title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 17 Apr 2020 11:03:51 -0400</pubDate>
+    <lastBuildDate>Fri, 17 Apr 2020 11:03:51 -0400</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+
+    
+      <item>
+        <title>Stop using random UUID's as primary keys</title>
+        <description>&lt;p&gt;UUID’s as primary keys is a popular method for primary keys in a datbase. However, this is a terrible practice.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 17 Apr 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2020/04/17/stop-using-uuid-as-primary-keys/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/04/17/stop-using-uuid-as-primary-keys/</guid>
+      </item>
+    
+
+    
+      
+        
+      
+    
+      
+        
+          <item>
+            <title>About</title>
+            <description>&lt;p&gt;This is the semi-personal blog of Eric Ely. I am a professional software developer and entrepreneur, working at and
+starting my own various companies. This site will be my person al brain dump.&lt;/p&gt;
+</description>
+            <link>http://localhost:4000/about.html</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+
+  </channel>
+</rss>
