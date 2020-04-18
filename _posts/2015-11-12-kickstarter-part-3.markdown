@@ -5,7 +5,7 @@ tags: [kickstarter, funding]
 image: '/images/posts/ks-3.jpg'
 ---
 
-Originally posted on [Live Fee and Start](https://livefreeandstart.com/crowdfunding/hit-your-kickstarter-goal/)
+_Originally posted on_ [_Live Fee and Start_](https://livefreeandstart.com/crowdfunding/hit-your-kickstarter-goal/)
 
 Your campaign is now live, congratulations!
 

@@ -5,7 +5,7 @@ tags: [kickstarter, funding]
 image: '/images/posts/ks-2.jpg'
 ---
 
-Originally posted on [Live Fee and Start](https://livefreeandstart.com/crowdfunding/steps-to-kickstarter-success/)
+_Originally posted on_ [_Live Fee and Start_](https://livefreeandstart.com/crowdfunding/steps-to-kickstarter-success/)
 
 Well, we hope our first post didn’t scare you away from Kickstarter forever and that you are still ready to take the plunge and run your own campaign.
 
