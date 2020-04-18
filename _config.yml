@@ -10,7 +10,7 @@ title:       Maximum Recursion Depth
 email:       ''
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://blog.eric-ely.com/' # The base hostname & protocol for your site
+url:         'https://blog.eric-ely.com' # The base hostname & protocol for your site
 twitter:     'https://twitter.com/eric_j_ely'
 github:      'https://github.com/eely22'
 website:     'https://eric-ely.com/'
