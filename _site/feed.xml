@@ -5,14 +5,14 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Apr 2020 14:57:10 -0400</pubDate>
-    <lastBuildDate>Sat, 18 Apr 2020 14:57:10 -0400</lastBuildDate>
+    <pubDate>Sat, 18 Apr 2020 15:46:00 -0400</pubDate>
+    <lastBuildDate>Sat, 18 Apr 2020 15:46:00 -0400</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
       <item>
         <title>A case for natrual primary keys</title>
-        <description>&lt;p&gt;Surrogate keys are a popular method for primary keys in a database. However, there is usually a better way.&lt;/p&gt;
+        <description>&lt;p&gt;Surrogate keys are a popular method for primary keys in a database. However, there is often a better way.&lt;/p&gt;
 
 &lt;h4 id=&quot;background&quot;&gt;Background&lt;/h4&gt;
 
@@ -70,9 +70,9 @@ customers, two products, or two subscriptions in your database. With surrogate k
 duplication. Of course, one could use UNIQUE constraints to prevent data duplication, but that is an extra step. The
 constraints could be altered or lost over time and that would lead to duplication.&lt;/p&gt;
 
-&lt;p&gt;Using the data with a natrual key bakes the uniqueness direclty in to each row, there is no need for an extra step.&lt;/p&gt;
+&lt;p&gt;Using the data with a natrual key bakes the uniqueness directly in to each row, there is no need for an extra step.&lt;/p&gt;
 
-&lt;h5 id=&quot;repetability&quot;&gt;Repetability&lt;/h5&gt;
+&lt;h5 id=&quot;repeatability&quot;&gt;Repeatability&lt;/h5&gt;
 
 &lt;p&gt;As natural keys are built from the data, they will always be the same. If a data table needs to be deleted or rebuilt,
 the keys will remain the same. With UUID’s or auto-incrementing integers, the keys would be randomly assigned if the

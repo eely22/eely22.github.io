@@ -5,7 +5,7 @@ tags: [databases, best practices]
 image: '/images/posts/db.jpg'
 ---
 
-Surrogate keys are a popular method for primary keys in a database. However, there is usually a better way.
+Surrogate keys are a popular method for primary keys in a database. However, there is often a better way.
 
 #### Background
 
@@ -59,9 +59,9 @@ customers, two products, or two subscriptions in your database. With surrogate k
 duplication. Of course, one could use UNIQUE constraints to prevent data duplication, but that is an extra step. The
 constraints could be altered or lost over time and that would lead to duplication.
 
-Using the data with a natrual key bakes the uniqueness direclty in to each row, there is no need for an extra step.
+Using the data with a natrual key bakes the uniqueness directly in to each row, there is no need for an extra step.
 
-##### Repetability
+##### Repeatability
 
 As natural keys are built from the data, they will always be the same. If a data table needs to be deleted or rebuilt,
 the keys will remain the same. With UUID's or auto-incrementing integers, the keys would be randomly assigned if the

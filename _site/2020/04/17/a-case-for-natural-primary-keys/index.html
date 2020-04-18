@@ -7,7 +7,7 @@
   <meta name='viewport' content='width=device-width, initial-scale=1'>
 
   <title>A case for natrual primary keys</title>
-  <meta name='description' content="Surrogate keys are a popular method for primary keys in a database. However, there is usually a better way.">
+  <meta name='description' content="Surrogate keys are a popular method for primary keys in a database. However, there is often a better way.">
   <link rel='canonical' href="http://localhost:4000/2020/04/17/a-case-for-natural-primary-keys/">
   <link rel='alternate' type='application/rss+xml' title='Maximum Recurstion Depth' href="http://localhost:4000/feed.xml">
 
@@ -116,7 +116,7 @@
   <img src='/images/posts/db.jpg' class='c-post__image' alt='A case for natrual primary keys'>
 
 
-          <p>Surrogate keys are a popular method for primary keys in a database. However, there is usually a better way.</p>
+          <p>Surrogate keys are a popular method for primary keys in a database. However, there is often a better way.</p>
 
 <h4 id="background">Background</h4>
 
@@ -174,9 +174,9 @@ customers, two products, or two subscriptions in your database. With surrogate k
 duplication. Of course, one could use UNIQUE constraints to prevent data duplication, but that is an extra step. The
 constraints could be altered or lost over time and that would lead to duplication.</p>
 
-<p>Using the data with a natrual key bakes the uniqueness direclty in to each row, there is no need for an extra step.</p>
+<p>Using the data with a natrual key bakes the uniqueness directly in to each row, there is no need for an extra step.</p>
 
-<h5 id="repetability">Repetability</h5>
+<h5 id="repeatability">Repeatability</h5>
 
 <p>As natural keys are built from the data, they will always be the same. If a data table needs to be deleted or rebuilt,
 the keys will remain the same. With UUID’s or auto-incrementing integers, the keys would be randomly assigned if the
