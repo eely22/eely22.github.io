@@ -5,13 +5,13 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Apr 2020 16:32:21 -0400</pubDate>
-    <lastBuildDate>Sat, 18 Apr 2020 16:32:21 -0400</lastBuildDate>
+    <pubDate>Sat, 18 Apr 2020 17:34:04 -0400</pubDate>
+    <lastBuildDate>Sat, 18 Apr 2020 17:34:04 -0400</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
       <item>
-        <title>A case for natrual primary keys</title>
+        <title>A case for natural primary keys</title>
         <description>&lt;p&gt;Surrogate keys are a popular method for primary keys in a database. However, there is often a better way.&lt;/p&gt;
 
 &lt;h4 id=&quot;background&quot;&gt;Background&lt;/h4&gt;
@@ -41,7 +41,7 @@ especially useful for many ORM’s that need the primary key value to work prope
 &lt;p&gt;There are many advantages of natural keys over surrogate keys, mainly:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;If using composite keys, there is no extra storage for a surrogate key.&lt;/li&gt;
+  &lt;li&gt;If using composite keys, there is no extra storage used.&lt;/li&gt;
   &lt;li&gt;Natural keys can be computed, therefore there is no round-trip fetch to get them.&lt;/li&gt;
   &lt;li&gt;They force data to be unique in the database, no accidental duplication of data.&lt;/li&gt;
   &lt;li&gt;They can be calculated again and again, meaning rebuilding your data doesn’t cause them to be lost.&lt;/li&gt;
@@ -51,7 +51,7 @@ at the time you insert new data&lt;/li&gt;
 
 &lt;h4 id=&quot;natural-key-advantages&quot;&gt;Natural Key Advantages&lt;/h4&gt;
 
-&lt;p&gt;May database designers seem to shun natural keys nowadays. This probably has something to do with the wide use of ORM
+&lt;p&gt;Many database designers seem to shun natural keys nowadays. This probably has something to do with the wide use of ORM
 systems that generally prefer to use auto-incrementing ID’s by default.&lt;/p&gt;
 
 &lt;p&gt;However, the use of natural keys can provide some major benefits.&lt;/p&gt;
@@ -66,7 +66,7 @@ which is a waste of a network call.&lt;/p&gt;
 &lt;h5 id=&quot;prevent-data-duplication&quot;&gt;Prevent data duplication&lt;/h5&gt;
 
 &lt;p&gt;While this could go either way, many types of data shouldn’t be duplicated in a database. You wouldn’t want two
-customers, two products, or two subscriptions in your database. With surrogate keys, there is no prevention of data
+copies of a customer or two copies of a product in your database. With surrogate keys, there is no prevention of data
 duplication. Of course, one could use UNIQUE constraints to prevent data duplication, but that is an extra step. The
 constraints could be altered or lost over time and that would lead to duplication.&lt;/p&gt;
 

@@ -6,7 +6,7 @@
   <meta http-equiv='X-UA-Compatible' content='IE=edge'>
   <meta name='viewport' content='width=device-width, initial-scale=1'>
 
-  <title>A case for natrual primary keys</title>
+  <title>A case for natural primary keys</title>
   <meta name='description' content="Surrogate keys are a popular method for primary keys in a database. However, there is often a better way.">
   <link rel='canonical' href="http://localhost:4000/2020/04/17/a-case-for-natural-primary-keys/">
   <link rel='alternate' type='application/rss+xml' title='Maximum Recurstion Depth' href="http://localhost:4000/feed.xml">
@@ -21,7 +21,16 @@
 
 <body>
 
-  <!-- Google Analytics Code -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163971877-2"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-163971877-2');
+</script>
+
 
   <div class='js-off-canvas-container c-off-canvas-container'>
     <header class='c-header'>
@@ -107,13 +116,13 @@
     <div class='o-grid__col'>
       <article class='c-post' itemscope itemtype='http://schema.org/BlogPosting'>
 
-        <h1 class='c-post__title u-text-center'>A case for natrual primary keys</h1>
+        <h1 class='c-post__title u-text-center'>A case for natural primary keys</h1>
 
         <time class='c-post__date' datetime='2020-04-17T00:00:00-04:00' itemprop='datePublished'>17 Apr 2020</time>
 
         <div class='c-content' itemprop='articleBody'>
           
-  <img src='/images/posts/db.jpg' class='c-post__image' alt='A case for natrual primary keys'>
+  <img src='/images/posts/db.jpg' class='c-post__image' alt='A case for natural primary keys'>
 
 
           <p>Surrogate keys are a popular method for primary keys in a database. However, there is often a better way.</p>
@@ -145,7 +154,7 @@ especially useful for many ORM’s that need the primary key value to work prope
 <p>There are many advantages of natural keys over surrogate keys, mainly:</p>
 
 <ul>
-  <li>If using composite keys, there is no extra storage for a surrogate key.</li>
+  <li>If using composite keys, there is no extra storage used.</li>
   <li>Natural keys can be computed, therefore there is no round-trip fetch to get them.</li>
   <li>They force data to be unique in the database, no accidental duplication of data.</li>
   <li>They can be calculated again and again, meaning rebuilding your data doesn’t cause them to be lost.</li>
@@ -155,7 +164,7 @@ at the time you insert new data</li>
 
 <h4 id="natural-key-advantages">Natural Key Advantages</h4>
 
-<p>May database designers seem to shun natural keys nowadays. This probably has something to do with the wide use of ORM
+<p>Many database designers seem to shun natural keys nowadays. This probably has something to do with the wide use of ORM
 systems that generally prefer to use auto-incrementing ID’s by default.</p>
 
 <p>However, the use of natural keys can provide some major benefits.</p>
@@ -170,7 +179,7 @@ which is a waste of a network call.</p>
 <h5 id="prevent-data-duplication">Prevent data duplication</h5>
 
 <p>While this could go either way, many types of data shouldn’t be duplicated in a database. You wouldn’t want two
-customers, two products, or two subscriptions in your database. With surrogate keys, there is no prevention of data
+copies of a customer or two copies of a product in your database. With surrogate keys, there is no prevention of data
 duplication. Of course, one could use UNIQUE constraints to prevent data duplication, but that is an extra step. The
 constraints could be altered or lost over time and that would lead to duplication.</p>
 
