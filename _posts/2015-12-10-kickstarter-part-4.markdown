@@ -38,3 +38,5 @@ Also, once you are funded, you may need to contact your backers to ask them ques
 
 
 In closing, we hope you find yourself on your way to creating your own projects and campaigns, and that this little series helps in some way. We are happy to share what we have learned so far. If we ever do another campaign, we may learn a whole new set of things that contradict what we already learned. Kickstarter is pretty fluid; each campaign has a life of its own, and it can be nearly impossible to predict. Just plan as best you can. Sometimes it sucks and sometimes it’s awesome, but it is a fantastic way to bring your dreams to fruition. It is a means to an end, but it is perhaps the most personal and available platform for many makers and inventors. We hope it brings you much success.
+
+[POST 1](https://blog.eric-ely.com/2015/09/10/kickstarter-part-1/)  \|  [POST 2](https://blog.eric-ely.com/2015/10/08/kickstarter-part-2/)  \|  [POST 3](https://blog.eric-ely.com/2015/11/12/kickstarter-part-3/)  \|  _POST 4_

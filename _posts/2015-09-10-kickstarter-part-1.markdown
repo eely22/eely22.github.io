@@ -24,3 +24,5 @@ This post is the introduction to a series of articles where we will try to help 
 In the following posts, we will try to lay out the blueprint of what we have learned along our Kickstarter journey. We have run campaigns for various products, so this advice may or may not apply to yours. Still, it is what we have learned and what has worked for us. We are hoping it can help you.
 
 Kickstarter can be hard, grueling, and crazy. It is also extremely liberating. In the end, you can realize your dreams without answering to investors. The community surrounding many of these projects is simply amazing; it is a group of people who genuinely want to help others. Through Kickstarter, you will gain more product and market knowledge than you could ever possibly do through any other means. In short: it sucks, but it’s awesome. We hope our advice brings you more of the latter.
+
+_POST 1_  \|  [POST 2](https://blog.eric-ely.com/2015/10/08/kickstarter-part-2/)  \|  [POST 3](https://blog.eric-ely.com/2015/11/12/kickstarter-part-3/)  \|  [POST 4](https://blog.eric-ely.com/2015/12/10/kickstarter-part-4/)

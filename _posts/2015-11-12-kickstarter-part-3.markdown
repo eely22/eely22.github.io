@@ -32,3 +32,5 @@ It is especially important for you to know that once your campaign is over, you 
 Finally, your campaign will be over, and you can sleep again without checking your backer count every five minutes.
 
 You’re done, congratulations! Now the hard work really begins.
+
+[POST 1](https://blog.eric-ely.com/2015/09/10/kickstarter-part-1/)  \|  [POST 2](https://blog.eric-ely.com/2015/10/08/kickstarter-part-2/)  \|  _POST 3_  \|  [POST 4](https://blog.eric-ely.com/2015/12/10/kickstarter-part-4/)

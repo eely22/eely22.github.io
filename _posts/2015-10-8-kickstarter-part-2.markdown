@@ -43,3 +43,5 @@ Once you get within a week of launch, you can also start to reach out to a few j
 When you get to the eve of your launch, you need to push even harder. Once your project goes live, you want to hit your goal as fast as possible. Send out another email blast, send messages to friends/family, and post on all forums. You want a lot of people on the first day, so you need to line them up now.
 
 Finally, the time has come to launch: 5, 4, 3, 2, 1.
+
+[POST 1](https://blog.eric-ely.com/2015/09/10/kickstarter-part-1/)  \|  _POST 2_  \|  [POST 3](https://blog.eric-ely.com/2015/11/12/kickstarter-part-3/)  \|  [POST 4](https://blog.eric-ely.com/2015/12/10/kickstarter-part-4/)
