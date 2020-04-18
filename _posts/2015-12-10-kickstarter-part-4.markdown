@@ -3,6 +3,8 @@ layout: post
 title: Bring Your Kickstarter Dream to Reality
 tags: [kickstarter, funding]
 image: '/images/posts/ks-4.jpg'
+imageWidth: 300
+imageHeight: 300
 ---
 
 _Originally posted on_ [_Live Fee and Start_](https://livefreeandstart.com/crowdfunding/bring-your-kickstarter-dream-to-reality/)

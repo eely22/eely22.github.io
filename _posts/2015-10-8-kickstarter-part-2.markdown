@@ -3,6 +3,8 @@ layout: post
 title: First Steps to Kickstarter Success
 tags: [kickstarter, funding]
 image: '/images/posts/ks-2.jpg'
+imageWidth: 300
+imageHeight: 300
 ---
 
 _Originally posted on_ [_Live Fee and Start_](https://livefreeandstart.com/crowdfunding/steps-to-kickstarter-success/)

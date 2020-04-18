@@ -3,6 +3,8 @@ layout: post
 title: A case for natural primary keys
 tags: [databases, best practices]
 image: '/images/posts/db.jpg'
+imageWidth: 358
+imageHeight: 270
 ---
 
 Surrogate keys are a popular method for primary keys in a database. However, there is often a better way.

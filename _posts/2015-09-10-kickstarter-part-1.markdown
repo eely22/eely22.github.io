@@ -3,6 +3,8 @@ layout: post
 title: Kickstarter Sucks… Or Does It?
 tags: [kickstarter, funding]
 image: '/images/posts/ks-1.jpg'
+imageWidth: 300
+imageHeight: 300
 ---
 
 _Originally posted on_ [_Live Fee and Start_](https://livefreeandstart.com/crowdfunding/kickstarter-sucks-or-does-it/)

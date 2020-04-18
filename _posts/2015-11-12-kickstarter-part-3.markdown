@@ -3,6 +3,8 @@ layout: post
 title: Hit Your Kickstarter Goal on Day 1 or Die Trying
 tags: [kickstarter, funding]
 image: '/images/posts/ks-3.jpg'
+imageWidth: 300
+imageHeight: 300
 ---
 
 _Originally posted on_ [_Live Fee and Start_](https://livefreeandstart.com/crowdfunding/hit-your-kickstarter-goal/)
