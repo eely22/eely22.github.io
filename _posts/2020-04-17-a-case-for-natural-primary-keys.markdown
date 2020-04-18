@@ -55,7 +55,7 @@ which is a waste of a network call.
 ##### Prevent data duplication
 
 While this could go either way, many types of data shouldn't be duplicated in a database. You wouldn't want two
-customers, two products, or two subscriptions in your database. With surrogate keys, there is no prevention of data
+copies of a customer or two copies of a product in your database. With surrogate keys, there is no prevention of data
 duplication. Of course, one could use UNIQUE constraints to prevent data duplication, but that is an extra step. The
 constraints could be altered or lost over time and that would lead to duplication.
 
