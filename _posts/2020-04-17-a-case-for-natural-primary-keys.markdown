@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A case for natrual primary keys
+title: A case for natural primary keys
 tags: [databases, best practices]
 image: '/images/posts/db.jpg'
 ---
