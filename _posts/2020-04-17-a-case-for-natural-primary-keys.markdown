@@ -31,7 +31,7 @@ Alternatively, a Natural key is one that can be derived from the data. It may be
 
 There are many advantages of natural keys over surrogate keys, mainly:
 
- - If using composite keys, there is no extra storage for a surrogate key.
+ - If using composite keys, there is no extra storage used.
  - Natural keys can be computed, therefore there is no round-trip fetch to get them.
  - They force data to be unique in the database, no accidental duplication of data.
  - They can be calculated again and again, meaning rebuilding your data doesn't cause them to be lost.
@@ -40,7 +40,7 @@ There are many advantages of natural keys over surrogate keys, mainly:
 
 #### Natural Key Advantages
 
-May database designers seem to shun natural keys nowadays. This probably has something to do with the wide use of ORM
+Many database designers seem to shun natural keys nowadays. This probably has something to do with the wide use of ORM
 systems that generally prefer to use auto-incrementing ID's by default.
 
 However, the use of natural keys can provide some major benefits.
